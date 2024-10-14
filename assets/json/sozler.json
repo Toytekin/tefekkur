@@ -1,0 +1,1851 @@
+[
+  {
+    "soz": "İki şey, aklı ve tedbiri bozar; biri acele etmek, diğeri de olmayacak şeyi istemek.",
+    "sozSahibi": "Hz. Ali",
+    "kategori": "ADALET"
+  },
+  {
+    "soz": "Acele her işte kötüdür. Yalnız şer ve kötülüğün defedilmesinde değil.",
+    "sozSahibi": "Hz. Ali",
+    "kategori": "ADALET"
+  },
+  {
+    "soz": "Acele şeytan işidir. Ama beş yerde öyle değildir; Misafire yemek yedirmekte, namazı vaktinde kılmakta, tövbe etmekte, kız evlâdı evlendirmekte, ölüyü defnetmekte.",
+    "sozSahibi": "Hâtem-i Esam",
+    "kategori": "ADALET"
+  },
+  {
+    "soz": "Kılıcın yapamadığını adalet yapar.",
+    "sozSahibi": "Kanuni Sultan Süleyman",
+    "kategori": "ADALET"
+  },
+  {
+    "soz": "Güzel ahlâk, suyun kiri yok ettiği gibi kusuru yok eder.",
+    "sozSahibi": "Hz. Ali",
+    "kategori": "AHLÂK"
+  },
+  {
+    "soz": "Aptallığın en büyüğü, övmede ve yermede aşırılığa kaçmaktır.",
+    "sozSahibi": "Bilinmiyor",
+    "kategori": "AHMAK-AHMAKLIK"
+  },
+  {
+    "soz": "İki şey ahmaklığa dalâlet eder: Hiç bir sebep yokken gülmek; sormadan haber vermek.",
+    "sozSahibi": "Malik bin Dinar",
+    "kategori": "AHMAK-AHMAKLIK"
+  },
+  {
+    "soz": "Ahmağı tanımakta en kesin ölçü, onun Allah’a inanıp inanmadığıdır. Böylelerinin deneysel bilgileri, marifetleri hiçbir değer ifade etmez.",
+    "sozSahibi": "İmam Rabbani",
+    "kategori": "AHMAK-AHMAKLIK"
+  },
+  {
+    "soz": "İlim cehaleti kaldırır, fakat ahmaklığa bir şey yapamaz.",
+    "sozSahibi": "A. Arvasi",
+    "kategori": "AHMAK-AHMAKLIK"
+  },
+  {
+        "soz": "Bir adamın aklının derecesini soru sormasından anlarım.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "Akıl gibi mal, iyi huy gibi dost, edeb gibi miraz, ilim gibi şeref olmaz.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "Akıl kemal bulunca boş sözler zeval bulur (yok olur).",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "En büyük servet akıldır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "Dünyalığı artınca sevinenler, hergün eksilmekte olan ömrüne üzülmeyenler arasında aklı noksan olmayan yoktur.",
+        "sozSahibi": "Ebû’d-Derda",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "Akıllı olan üç kimseyi hafife almaz; Alimleri, hükümdarları, dostları. Alimleri hafife alanın ahireti gider, sultanları hafife alanın dünyası gider, dostlarına mürüvveti olmayanın dostluğu gider.",
+        "sozSahibi": "Abdullah b. Mübarek",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "Akıl yeryüzünden kalksa bile hiç kimse akılsız olduğuna inanmaz.",
+        "sozSahibi": "Sâdi Şîrâzî",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "İki şey akıl hafifliğini gösterir: Konuşacak yerde susmak, susacak yerde konuşmak.",
+        "sozSahibi": "Sâdi Şîrâzî",
+        "kategori": "AKIL"
+      },
+      {
+        "soz": "Şirkten sonra en büyük günah, insanlarla eğlenip alay etmektir.",
+        "sozSahibi": "Vehb ibni Münebbih",
+        "kategori": "ALAY ETMEK"
+      },
+      {
+        "soz": "İbâdetlerin en faziletlisi tevazudur.",
+        "sozSahibi": "Hz. Aişe",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "Her kim kendisini kıymetli bilirse onun tevâzûdan nasibi yoktur.",
+        "sozSahibi": "Mâlik b. Dinar",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "Tevâzu yaptığın güzel işlere bakıp kendini beğenmemen ve şımarmamandır.",
+        "sozSahibi": "Ebû Süleyman Dârânî",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "Tevâzu kimden olursa olsun hakkı (doğruyu, gerçeği) kabul etmendir.",
+        "sozSahibi": "Fudayl b. İyad",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "İnsanoğlu topraktan yaratılmıştır, eğer toprak gibi alçakgönüllü olmazsa insan değildir.",
+        "sozSahibi": "Sâdî",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "Tevâzu ne dünyada ne de ahirette hiç kimseyi kendine muhtaç görmemendir.",
+        "sozSahibi": "Hamdun Kassar",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "Her türlü iyilik bir evde toplanmış ve onun anahtarı tevâzu olmuştur. Her türlü kötülük bir evde toplanmış ve onun anahtarı kibir olmuştur.",
+        "sozSahibi": "Yusuf bin Hüseyin",
+        "kategori": "ALÇAKGÖNÜLLÜLÜK (TEVÂZU)"
+      },
+      {
+        "soz": "Ey kişi, kalbinde Allah sevgisinden başka bir şey olmadığı zaman bil ki çok zenginsin.",
+        "sozSahibi": "İbni Vefa",
+        "kategori": "ALLAH'I SEVMEK"
+      },
+      {
+        "soz": "Bir kimse Allah’ı seviyor, O’na itaat ediyorsa sen de onu sevmek zorundasın. Çünkü iyi kimseyi seven Allah’ı sevmiş olur.",
+        "sozSahibi": "Ebû Said Hasan Basri",
+        "kategori": "ALLAH'I SEVMEK"
+      },
+      {
+        "soz": "Ömrüm boyunca oruç tutsam, hiç uyumadan geceleri ibadetle geçirsem, malımı parça parça Allah yolunda infak etsem, fakat gönlümde Allah’a itaat edenlere karşı bir sevgi, isyan edenlere karşı bir nefret duymasam, bütün bu yaptıklarımdan bir fayda göremem.",
+        "sozSahibi": "Abdullah bin Ömer",
+        "kategori": "ALLAH İÇİN SEVMEK"
+      },
+      {
+        "soz": "Allah korkusuyla dökülen gözyaşları, ariflerin ibadetleridir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ALLAH KORKUSU"
+      },
+      {
+        "soz": "Vezir, padişahtan korktuğu kadar Allah’tan korksaydı melek olurdu.",
+        "sozSahibi": "Sâdi",
+        "kategori": "ALLAH KORKUSU"
+      },
+      {
+        "soz": "Kıyamet günü her göz ağlayacaktır. Ancak Allah Teâlâ’nın haram kıldıklarına bakmayan, Allah için uykusuz kalan, Allah korkusundan ağlayan gözler, ağlamayacaktır.",
+        "sozSahibi": "Safvan bin Süleyman",
+        "kategori": "ALLAH KORKUSU"
+      },
+      {
+        "soz": "Allah Teâlâ’nın senin hakkındaki bilgisi, insanların senin hakkındaki bilgisinden daha iyi olmalı. Bunun için yalnız olduğun zaman hal ve hareketine, insan içinde olduğundan daha çok dikkat etmelisin.",
+        "sozSahibi": "Hamdun Kassar",
+        "kategori": "ALLAH KATINDA İYİ OLMAK"
+      },
+      {
+        "soz": "Sen, babanın hakkına riayet edersen, oğlun da senin hakkına riayet eder.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ANA-BABAYA HÜRMET"
+      },
+      {
+        "soz": "En büyük belalardan biri, anlaşamadığın halde ayrılma imkanın olmayan arkadaştır.",
+        "sozSahibi": "Muhammed er-Rasibi",
+        "kategori": "ARKADAŞ"
+      },
+      {
+        "soz": "Komşusu, akrabası ve arkadaşı tarafından iyi denen kimse gerçekten iyidir.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "ARKADAŞ"
+      },
+      {
+        "soz": "Aralarında yaşayabileceğin samimi arkadaşlar edin; çünkü onlar iyi günlerde gönül şenliği, kötü günlerde yardımcıdırlar.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "ARKADAŞ"
+      },
+      {
+        "soz": "Dünyada arsız kimseyle arkadaş olmak, ahirette insanı mahcub eder.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "ARKADAŞ"
+      },
+      {
+        "soz": "Ufak bir yanlış hareketinle üzülecek, darılacak kimseye çok güvenme.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "ARKADAŞ"
+      },
+      {
+        "soz": "Zalimleri bağışlamak yoksullara cefadır.",
+        "sozSahibi": "Sâdî",
+        "kategori": "BAĞIŞLAMAK"
+      },
+      {
+        "soz": "Allah’a itaat etmek, fakat reddedilmekten korkmak bahtiyarlık alameti; Allah’a asi olmak ama O’nun katında makbul olmayı ummak bedbahtlık alametidir.",
+        "sozSahibi": "Ebû Osman Nisaburi",
+        "kategori": "BAHTİYARLIK"
+      },
+      {
+        "soz": "Bir kimsesinin bedbaht olmasının alameti (işareti, belirtisi) üçtür: 1- Kendisini ilim verilip amelden mahrum bırakılması, 2- Amel verilip ihlâstan mahrum bırakılması, 3- Allah dostları ile sohbete nail olup onlara hürmetten mahrum olması.",
+        "sozSahibi": "Muhammed bin Fadl Belhi",
+        "kategori": "BEDBAHTLIK"
+      },
+      {
+        "soz": "Altı şey cehalet ve bedbahtlık eseridir: 1- Sebepsiz yere kızmak, 2- Gereksiz ve faydasız konuşmak, 3- Sırrını ifşa etmek, 4- Herkese güvenmek, 5- Dostunu düşmanını ayıramamak, 6- Yersiz ve zamansız nasihatte bulunmak.",
+        "sozSahibi": "Muhammed bin Mansur et-Tûsî",
+        "kategori": "BEDBAHTLIK"
+      },
+      {
+        "soz": "Beş şey bedbahtlık nişanıdır: Gönül katılığı; göz yaşarmazlığı; hayasızlık; dünya sevgisi; dünya için uzun endişe.",
+        "sozSahibi": "Malik bin Dinar",
+        "kategori": "BEDBAHTLIK"
+      },
+
+      {
+        "soz": "Bilgi zenginlikten üstündür. Çünkü zenginliği sen korursun, bilgi ise seni korur.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "İlim adamları için yokluk içinde yaşadığı halde kanaat sahibi olmaktan daha değerli bir ziynet yoktur.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "Kötülükten kaçmayan bilgin, ışık tutan bir kördür, başkalarına doğru yolu gösterir, ama kendisi göremez.",
+        "sozSahibi": "Sâdî",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "İlim bir avdır, onun kösteği yazmaktır.",
+        "sozSahibi": "Safiyyü’l-Hılli",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "Biz, ilmi yazmayan kişiyi, ilmi bilen kişi olarak kabul etmezdik.",
+        "sozSahibi": "Muaviye bin Kurre",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "İlim öğrenilen değil, yaşanandır. Yaşanmayan ilim geçmeyen para gibidir.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "İlmin de ehli vardır. Onun ehlinden başkasına verirsen ziyan etmiş, ehline vermezsen ihanet etmiş olursun.",
+        "sozSahibi": "Süfyan bin Uyeyne",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "En güvendiğim sağlam amelim (çabam) ilmi yaymak için yaptığım çalışmadır.",
+        "sozSahibi": "Ata bin Meysene",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "Önce yol bil, sonra yol göster. Yolu görememişsen mürşitlik davasını bırak.",
+        "sozSahibi": "Nâsır-ı Hüsrev",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "İlmi ile amel etmeyen âlim, başkalarını giydirdiği halde kendisi çıplak olan iğne gibidir.",
+        "sozSahibi": "İmam Gazalî",
+        "kategori": "BİLGİ-BİLGİN (İLİM-ÂLİM)"
+      },
+      {
+        "soz": "Halkın içinden kaçmak marifet değildir. Asıl marifet halkın içinde iken kendi içine dönebilmektir.",
+        "sozSahibi": "Ebû Bekir Şibli",
+        "kategori": "BİRLİK (TOPLULUK, CEMAAT)"
+      },
+      {
+        "soz": "Borcunu azaltırsan hür yaşarsın, günahlarını azaltırsan rahat ölürsün.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "BORÇ"
+      },
+      {
+        "soz": "Öğünmeyiniz! Hem topraktan yaratılmış hem de toprağa dönünce kendisini kurtların yiyeceği insanın övünmesi neye yarar!",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Hurma ağacına bakınız. Başı dik olduğu için Allah ona meyvelerini nasıl taşıtıyor. Kabak, kavun, karpuz gibi bitkiler ise yüzünü ve dallarını yere koyduğu için Allah onların meyvelerinin yükünü toprağa taşıtıyor.",
+        "sozSahibi": "Ahmed er-Rufai",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Dindarsan kendini beğenmişliği bırak, kendini görmezsen Allah’ı görürsün.",
+        "sozSahibi": "Nasr-ı Hüsrev",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Allah’a karşı isyan bayrağını çektiren günahların başında kibir gelir.",
+        "sozSahibi": "Avn İbn-i Abdullah",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Bir günah ki kaynağı şehvettir, affa mazhar olacağı umulur; ama bir günah ki kibirden kaynaklanır onun için mağfiret umulmamalıdır.",
+        "sozSahibi": "Seriyyü’s-Sakati",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Bir kimsede kibir varsa bu, söz söylerken soğan gibi kokar.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Dağları iğneyle kazmak, kalbden kibri söküp atmaya nazaran daha kolaydır.",
+        "sozSahibi": "Ebû Haşim Sofi",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "İsyanda olanların mahçup hali, benim için ibadette olanların mağrur halinden daha sevimlidir.",
+        "sozSahibi": "Yahya Vâiz",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Kişinin kendini beğenmesi, aklının zayıf olduğuna dalalet eder.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },
+      {
+        "soz": "Bir Müslümanı küçük gördüğün zaman karşılığında iman ve irfan duygusunun azalışını görürsün.",
+        "sozSahibi": "Ebû Bekir bin Hamid Tirmizi",
+        "kategori": "BÜYÜKLENME (KİBİR)"
+      },{
+        "soz": "Câhilin yüz faydası bir zararını karşılamaz.",
+        "sozSahibi": "Nâsır-ı Hüsrev",
+        "kategori": "CÂHİL-CÂHİLLİK"
+      },
+      {
+        "soz": "Akraban da olsa câhille ilgini kes. Çünkü vereceği sıkıntı, sağlayacağı huzurdan fazla olur.",
+        "sozSahibi": "Nâsır-ı Hüsrev",
+        "kategori": "CÂHİL-CÂHİLLİK"
+      },
+      {
+        "soz": "Rızık, bilgi ile artsaydı câhilden zor geçinen olmazdı.",
+        "sozSahibi": "Sâdî",
+        "kategori": "CÂHİL-CÂHİLLİK"
+      },
+      {
+        "soz": "Âlim, ölse de yaşar; câhil yaşarken ölüdür.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "CÂHİL-CÂHİLLİK"
+      },
+      {
+        "soz": "İnsanların en câhili, ahiretini başkasının dünyası için satandır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "CÂHİL-CÂHİLLİK"
+      },
+      {
+        "soz": "Cimri insan dünyada fakirler gibi yaşar, ahirette zenginler gibi sorguya çekilir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "CİMRİLİK"
+      },
+      {
+        "soz": "Kıyamette bir devenin iğne deliğinden geçmesi, cimri bir zenginin cennete girmesinden daha kolaydır.",
+        "sozSahibi": "Vehb ibn-i Münebbih",
+        "kategori": "CİMRİLİK"
+      },
+      {
+        "soz": "İnsanların malca en cimrisi, namusca en cömertidir. Yani malına kıymaması, namusunun ayak altı olmasına sebep olur.",
+        "sozSahibi": "İbn-i Mu’tez",
+        "kategori": "CİMRİLİK"
+      },
+      {
+        "soz": "Cömertliğin aslı, kendi malından verip, başkasının malını korumaktır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "CÖMERTLİK"
+      },
+      {
+        "soz": "Bir kimsenin Allah’ı sevmesinin belirtisi üçtür: Deniz gibi cömertlik, güneş gibi şefkat, yer gibi tevazu.",
+        "sozSahibi": "Bâyezid Bistâmi",
+        "kategori": "CÖMERTLİK"
+      },
+      {
+        "soz": "Amellerin (güzel işlerin) şahı üçtür: Mal az olduğunda da cömert olmak. Yalnızken de Allah’tan korkup haramdan sakınmak. Kendisinden korkulan veya bir şey umulan kimsenin huzurunda da doğruyu söyleyebilmek.",
+        "sozSahibi": "Bişr-i Hafi",
+        "kategori": "CÖMERTLİK"
+      },
+      {
+        "soz": "Sıkışık zamanında imdadına koşacak kimse isteyen, bolluk içindeyken cömert olmalıdır.",
+        "sozSahibi": "Şeyh Sâdî",
+        "kategori": "CÖMERTLİK"
+      },
+      {
+        "soz": "En hayırlı cömertlik, ihtiyaç sahibini arayıp ona vermektir.",
+        "sozSahibi": "Ebû Süleyman Dârânî",
+        "kategori": "CÖMERTLİK"
+      },
+      {
+        "soz": "Allah’a giden yolun köprüsü, malını O’nun uğruna saçmaktır.",
+        "sozSahibi": "Şems-i Tebrîzî",
+        "kategori": "CÖMERTLİK"
+      },
+      {
+        "soz": "Herhangi bir kimseyi ne dünyasının ne de âhiretinin emrinde çalışır olarak görmezsem ondan nefret ederim.",
+        "sozSahibi": "İbn-i Mes’ud",
+        "kategori": "ÇALIŞMAK-KAZANMAK"
+      },
+      {
+        "soz": "Çalışmak en hayırlı maldır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "ÇALIŞMAK-KAZANMAK"
+      },
+      {
+        "soz": "Hazine, eziyet çekene, çalışıp çaba gösterene gözükür.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "ÇALIŞMAK-KAZANMAK"
+      },
+      {
+        "soz": "Çalışanlar kötülük düşünmeye vakit bulamazlar; tenbeller ise kendilerini kötülükten kurtaramazlar.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ÇALIŞMAK-KAZANMAK"
+      },
+      {
+        "soz": "Kim kazanmazsa bu dünyada bir ekmek parası, Dostunun yüz karası düşmanının maskarası.",
+        "sozSahibi": "Mehmed Akif",
+        "kategori": "ÇALIŞMAK-KAZANMAK"
+      },
+      {
+        "soz": "Üç şey kalbi öldürür: Çok yemek, çok uyumak, çok konuşmak.",
+        "sozSahibi": "Fudayl bin İyaz",
+        "kategori": "ÇOK KONUŞMAK"
+      },
+      {
+        "soz": "İnsanları iki şey mahveder: Fazla mal toplama hırsı ve çok konuşmak.",
+        "sozSahibi": "İbrahim en-Nehâi",
+        "kategori": "ÇOK KONUŞMAK"
+      },
+      {
+        "soz": "Üç şey kalbi katılaştırır: Çok yemek, çok konuşmak, çok uyumak.",
+        "sozSahibi": "Mâlik bin Dinar",
+        "kategori": "ÇOK YEMEK"
+      },
+      {
+        "soz": "Her şeyin bir helâk (bozulma, yok olma) sebebi vardır, kalb nurunun helâk sebebi tokluktur. Her şeyin bir pası vardır, kalb nurunun pası tokluktur.",
+        "sozSahibi": "Ebû Süleyman Dârânî",
+        "kategori": "ÇOK YEMEK"
+      },
+      {
+        "soz": "Yemin ederim ki ağzıma koyduğum her lokmanın benim en büyük düşmanım olduğunu daima düşünmüşümdür.",
+        "sozSahibi": "Yezid bin Şüreyk et-Teymi",
+        "kategori": "ÇOK YEMEK"
+      },
+      {
+        "soz": "Bilirken susmakta, bilmezken söylemekte olduğu gibi hayır yoktur.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Dil bedenin denge organıdır. Dil doğru olursa diğer organlar da doğru olur.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Ayıplarını örtmek ve nefsini selamete ulaştırmak istersen az söyle çok dinle.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Dil yırtıcı bir hayvana benzer, ipini biraz gevşetin, ısırır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "İnsanın kadere dili altında saklıdır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Her kötülükten uzak kalmanın yolu dilini tutmaktır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Sükut, insanın en nefis elbisesidir.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Rahat ve huzur on kısım ise, dokusu susmaktır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "İnsan, ayağını bastığı yerden çok diline dikkat etmelidir.",
+        "sozSahibi": "Ebû Hâzım Mekki",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "İnsan kalbi bir sandıktır; dudaklar, onun kilidi, dil ise anahtarıdır. İnsana o anahtarı iyi muhafaza etmek düşer.",
+        "sozSahibi": "Ömer İbn-i Abdülaziz",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Dilini tutmayı alışkanlık haline getiren güven içinde yaşar.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Nefsi en iyi şu dört şey terbiye eder: Susmak, açlık, yalnızlık, uykusuzluk.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Dilsiz, dilini tutmayan dilliden çok üstündür.",
+        "sozSahibi": "Sâdî",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Dili korumak, altını ve gümüşü korumaktan daha zordur.",
+        "sozSahibi": "Muhammed ibn-i Vasi",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Sıkıntıdan kurtulmak istiyorsan dünyaya meyletmeyi bırak, özür dilemekten kurtulmak istiyorsan diline hakim ol.",
+        "sozSahibi": "Mansur bin Ammar",
+        "kategori": "DİLİ KORUMAK (DİLİ TUTMAK) SUSMAK"
+      },
+      {
+        "soz": "Ya Rabbi! Doğruyu doğru olarak bize göster ve ona uymak için kuvvet ve kudret ver.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "DOĞRU-DOĞRULUK"
+      },
+      {
+        "soz": "Başkalarının düzeltmek için önce kendinizi düzeltiniz.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "DOĞRU-DOĞRULUK"
+      },
+      {
+        "soz": "Bir doğruyu savunurken ona önce kendimiz inanmalıyız.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DOĞRU-DOĞRULUK"
+      },
+      {
+        "soz": "Mertlik, açıkta yapılmasından utanılacak bir şeyi gizli olarak da yapmamaktır.",
+        "sozSahibi": "Nuşirevân-ı Âdil",
+        "kategori": "DOĞRU-DOĞRULUK"
+      },
+      {
+        "soz": "Şüpheli bir dirhemi geri vermek, bin dirhem sadaka vermekten daha üstündür.",
+        "sozSahibi": "Abdullah ibn-i Mübarek",
+        "kategori": "DOĞRU-DOĞRULUK"
+      },
+      {
+        "soz": "Doğruluk, kalbin konuşmasıdır, yani kendisinde olanı söylemesidir.",
+        "sozSahibi": "Ebûlhasen Harakani",
+        "kategori": "DOĞRU-DOĞRULUK"
+      },
+      {
+        "soz": "Bana dünyadan üç şey sevimli oldu: Geceleri namaz kılmak, hastaları ziyaret etmek, sözün doğrusunu söylemek.",
+        "sozSahibi": "Hz. Hasan",
+        "kategori": "DOĞRU SÖZ"
+      },
+      {
+        "soz": "Doğru söylediği için zincire vurulmak, yalan söyleyerek zincirden kurtulmaktan iyidir.",
+        "sozSahibi": "Sâdî",
+        "kategori": "DOĞRU SÖZ"
+      },
+      {
+        "soz": "Zalim bir idarecinin yanında doğruyu söylemekten daha üstün bir sadaka yoktur.",
+        "sozSahibi": "Meymun İbn-i Mihran",
+        "kategori": "DOĞRU SÖZ"
+      },
+      {
+        "soz": "İnsanın üç dostu vardır: 1. Şahsi dostu, 2. Dostunun dostu, 3. Düşmanının düşmanı.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Herşeyin hayırlısı yenisidir; fakat dostun hayırlısı eski olandır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Birçok kimseye dostluk gösterdim, onlardan bir karşılık görmedim, yine de dostluktan vazgeçmedim.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Hakiki dost, sıkıntı zamanında imdada yetişendir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Dostların kalbini kırmakla düşmanların arzularına hizmet etmiş olursun.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Dostlarla yapılan sohbetle boy ölçüşecek bir güzel davranış daha yoktur. Onların ayrılığı kadar da keder veren bir şey yoktur.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Bizde bu aleme hiç meyil kalmamıştır. Dostların gelip bizi bulamayınca gönülleri kırık dönmeleri tek üzüntümüzdür.",
+        "sozSahibi": "Alaeddin Attar",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Zamanımız insanlarının dostluğu çarşı yemeği gibi, rengi ve görünüşü güzel, fakat tadında iş yok.",
+        "sozSahibi": "Mâlik bin Dinar",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Halini iki kişiden gizleme: Uzman doktordan, gerçek dosttan.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Ayıpsız dost arayan dostsuz kalır.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Çiçeksiz bahçenin zevki olmadığı gibi dostsuz hayatın da zevki olmaz.",
+        "sozSahibi": "Nâsır-ı Husrev",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Biriyle dostluk kurmak iyi bir şey, bu dostluğu sonuna kadar bağlı kalmak büyük bir iştir.",
+        "sozSahibi": "Nâsır-ı Husrev",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Akıllı ve içindeki düğümleri çözen bir dosta sahip olan kimse ne bahtiyardır.",
+        "sozSahibi": "Nâsır-ı Husrev",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Senin dindarlığını arttıran dost, her karşılaştığında avucuna bir altın koyan dosttan daha hayırlıdır.",
+        "sozSahibi": "Bilal İbn-i Sa’d",
+        "kategori": "DOST-DOSTLUK"
+      },
+      {
+        "soz": "Yedi şeyde hayır yoktur: Huşu olmayan namazda, lüzumsuz şeylerden kaçınılmadan tutulan oruçta, düzgün telaffuz etmeden, acele ile Kur’an okumakta, günahlara engel olmayan ibadette, cömertlik bulunmayan malda, samimiyet bulunmayan dostlukta, ihlâs olmayan duada.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DUA"
+      },
+      {
+        "soz": "Dualar kabul olacak, hemen dua ediniz dense, ben duayı kendim için değil, devlet büyükleri için yapardım. Çünkü benim iyiliğimle halk pek bir şey kazanmaz. Ama idare edenlerin iyi olmaları ile Müslümanlar çok şey kazanır.",
+        "sozSahibi": "Fudayl bin İyaz",
+        "kategori": "DUA"
+      },
+      {
+        "soz": "Dua yapmaktan mahrum olmam, benim için duama icabet edilmesinden çok daha zordur.",
+        "sozSahibi": "Ebû Hazım Mekki",
+        "kategori": "DUA"
+      },
+      {
+        "soz": "Duada mübalağa etmek rızanın şartı değildir.",
+        "sozSahibi": "Davud Kassar",
+        "kategori": "DUA"
+      },
+      {
+        "soz": "Dünyaya az meylet, rahat yaşarsın.",
+        "sozSahibi": "",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Allah, dinini düzelten kişinin dünyasını da düzeltir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Dünya yılan gibidir, cildi yumuşak fakat zehiri öldürücüdür. Hoşuna giden şeylerden uzaklaş ki sana yaklaşmasın.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "İnsanlar dünya işlerinde hırs içinde ve tedbir peşisusunda akıl ve kuvvete göre pay alamazlar. Nice büyük insanlar vardır ki dünya onlara gülmez. Eğer kuvvet ve zorbalıkla dünya ele geçseydi, kartallar serçe kuşlarına rızık bırakmazlardı.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "“Dünya sizi aldatmasın!” Bunu kim söylüyor? Cenab-ı Hakk söylüyor. Dünyayı onu yaratandan daha iyi bilen olur mu? O halde dünyadan sakının.",
+        "sozSahibi": "Hasan Basrî",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Ademoğlunun canı dünyadan ancak üç hasretle çıkıyor: Derlediğinden doyasıya yiyememek, emeline varamamak, yapacağı sefer için yeterli azık edinememek.",
+        "sozSahibi": "Hasan Basrî",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Sevgilinin sevmediğini sevmek, sevgi alâmeti değildir. Rabbimiz dünyayı kötüledi, biz ise onu övmekle meşgulüz.",
+        "sozSahibi": "İbrahim Edhem",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Nasıl ki beden hastalandığı zaman yeme, içme, uyku ve istirahatten zevk almazsa, kalb de dünya hastalığına tutulunca vaz ve nasihatten zevk almaz.",
+        "sozSahibi": "Mâlik bin Dinar",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Dünya şehvetlerle donatılmış, âfetlerle kuşatılmıştır. Dünya malının helalinin hesabı, haramının azabı vardır. Dünyaya yakınlık ve ilginiz ona göre olsun.",
+        "sozSahibi": "İbn-i Semmak",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Dünyayı arayıp ahireti bulanı hiç görmedik. Ama ahireti arayıp dünyayı bulanı gördük.",
+        "sozSahibi": "Ebû Said Hasan Basrî",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Dünyanın az şeyini istemek, ahiretin çok şeyini kaybetmek demektir.",
+        "sozSahibi": "Ka’b el-Kurâzî",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Dostlar arasında ülfet ve bağlılığın kalkması, dünya sevgisi sebebiyledir.",
+        "sozSahibi": "Hamdun Kassar",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Ahireti isteyen, dünyasına zarar verir; dünyasını isteyen ahiretine zarar verir. Sen ebedi olan için fani olana zarar ver.",
+        "sozSahibi": "Amr bin Mürre",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Dünya üzerindekileri besler, büyütür, sonra onları yine kendi yer.",
+        "sozSahibi": "Ahmed er-Rufaî",
+        "kategori": "DÜNYA"
+      },
+      {
+        "soz": "Akılsızlık alâmeti dörttür: Ahmağa fikir danışmak, cahile para vermek, dostların öğütlerini dinlememek, dünyadan ibret almamak.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "DÜNYA"
+      },
+
+      {
+        "soz": "Akrabanın düşmanlığı ve dostların eziyeti yılan zehirinden daha acıdır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "Akıllı düşman, akılsız dosttan hayırlıdır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "Açık kalb ile konuşan düşman, içinden pazarlıklı dosttan daha iyidir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "Akıllı düşmanla istişare kabildir; fakat cahil dostun reyinden kaçınmalıdır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "İki düşman arasında öyle konuş ki barıştıkları zaman utanmayasın.",
+        "sozSahibi": "Sâdî",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "İnsanın, kusurlarını sayan düşmanlarından edeceği istifade, kendisini öven dostlarından edeceği istifadeden daha fazladır.",
+        "sozSahibi": "İmam Gazali",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "Düşmanın senden emin olmadıkça kâmil (tam, olgun) bir kişi olamazsın.",
+        "sozSahibi": "Bişr-i Hafi",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "Bir kişinin düşmanlığına karşılık, bin kişinin dostluğu verilse dahi alma.",
+        "sozSahibi": "Ebû Said Hasan Basrî",
+        "kategori": "DÜŞMAN-DÜŞMANLIK"
+      },
+      {
+        "soz": "Edeb, haddini bilmektir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "EDEB"
+      },
+      {
+        "soz": "Himayen altındakilere iyilik yapmak istersen onlara edeb öğret.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "EDEB"
+      },
+      {
+        "soz": "Babaların evlatlarına bıraktıkları servetin en hayırlısı edebtir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "EDEB"
+      },
+      {
+        "soz": "Her kim edepten mahrum kaldı, cümle hayırlardan mahrum kaldı.",
+        "sozSahibi": "İbn Atâ",
+        "kategori": "EDEB"
+      },
+      {
+        "soz": "Aslında insanla hayvan arasındaki fark da edebdir. Bütün Kur’an’ın manası ayet ayet edebten ibarettir.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "EDEB"
+      },
+      {
+        "soz": "Bir inasın layık olmadığı yere koymak zülumdur.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "EHLİYET"
+      },
+      {
+        "soz": "İnsanların evveli bir damla su, sonu ise toprak olmaktır. Asıllarındaki bir şeyle övünenler ancak su ve toprakla övünmektedirler.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "EŞİTLİK"
+      },
+      {
+        "soz": "Üç haslet ibadet etmekten daha değerlidir: Gaflet uykusundan uyanmak; nefse dilediğini vermemek; Allah korkusundan ağlamak.",
+        "sozSahibi": "Ebû Bekir Kettânî",
+        "kategori": "GAFLET-GÂFİL"
+      },
+      {
+        "soz": "Avam (halk tabakası) için günahtan kaçmak nasıl vacip ise, havas (münevver tabaka) için de gafletten kaçmak öyle vaciptir.",
+        "sozSahibi": "Ebû Yezid Burani",
+        "kategori": "GAFLET-GÂFİL"
+      },
+      {
+        "soz": "Gafilin üç alameti vardır: çok yanılmak, çok eğlenmek, çok unutmak.",
+        "sozSahibi": "Vehb ibn-i Münebbih",
+        "kategori": "GAFLET-GÂFİL"
+      },
+      {
+        "soz": "Allah’a yemin ederim ki, gıybet, müminin dinini ifsad (bozma) hususunda, cüzzamın bedeni ifsad etmesinden çok daha hızlıdır.",
+        "sozSahibi": "Hasan Basri",
+        "kategori": "GIYBET (ARKADAN KONUŞMA, ÇEKİŞTİRME)"
+      },
+      {
+        "soz": "Dört şeyi dört şeyden temizle: Dilini gıybetten, kalbini kıskançlıktan, mideni haram lokmadan, davranışlarını riyadan.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "GIYBET (ARKADAN KONUŞMA, ÇEKİŞTİRME)"
+      },
+      {
+        "soz": "Senin yanında başkasını çekiştiren, seni de başkasının yanında çekiştirir.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "GIYBET (ARKADAN KONUŞMA, ÇEKİŞTİRME)"
+      },
+      {
+        "soz": "Kalbler, içi boş kablara benzer, hayırlı olanı hayırla dolu olandır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "GÖNÜL (KALB)"
+      },
+      {
+        "soz": "Kalb kör olduktan sonra gözlerin görmesinde hiçbir fayda yoktur.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "GÖNÜL (KALB)"
+      },
+      {
+        "soz": "Topraktan biten güller solar gider, gönülden biten güller ise devamlıdır.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "GÖNÜL (KALB)"
+      },
+      {
+        "soz": "Kendisinden başkasından boş olmak şartıyla Allah katında en makbul organ kalbdir.",
+        "sozSahibi": "İmam Gazali",
+        "kategori": "GÖNÜL (KALB)"
+      },
+      {
+        "soz": "Çok gülenin heybeti azalır, çok konuşan çok yanılır, böylelerinin hayâsı gider.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "GÜLMEK"
+      },
+      {
+        "soz": "Günahtan sakınmak, tövbe ile uğraşmaktan daha kolaydır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Kötü yolları öğrenmemen için günahkarlarla sohbet etme.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Günahtan korkmayan ile düşüp kalkmak, kıyamet gününde insana utanç olur.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Sahibine üzüntü veren günah, sahibine gurur veren ibadetten hayırlıdır.",
+        "sozSahibi": "Ata-i İskenderi",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Günah işlediği zaman üzüntü değil sevinç duyanların hali, günah işlemekten daha beterdir.",
+        "sozSahibi": "Mansur bin Ammar",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Hayret ederim o kişiye ki, hastalık korkusuyla yemekten perhiz eder de, cehennem korkusuyla günahtan perhiz etmez.",
+        "sozSahibi": "Yahya bin Muaz",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Allah’tan korkan günahkar, ibadetine güvenen âbidden daha makbuldür.",
+        "sozSahibi": "Sâdî",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Nefse, günahtan kaçınmak ibadet yapmaktan daha zor gelir. Onun için günahtan kaçınmak daha sevaptır.",
+        "sozSahibi": "İmam Rabbânî",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "İşlenen günahların kokusu olsaydı, günahlarımın kokusu yüzünden hiçbiriniz bana yaklaşmazdı.",
+        "sozSahibi": "Muhammed İbn-i Sirin",
+        "kategori": "GÜNAH-GÜNAHKÂR"
+      },
+      {
+        "soz": "Biz, harama düşmek korkusuyla helâlin de onda dokuzunu terkederdik.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "HARAM"
+      },
+      {
+        "soz": "Her haram içki gibi sarhoşluk verseydi, hiç kimseyi ayık göremezdin.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "HARAM"
+      },
+      {
+        "soz": "Haram para ile sadaka veren, hayır işleyen kimse, kirlenmiş elbiseyi idrar ile yıkayana benzer.",
+        "sozSahibi": "Süfyan-ı Sevri",
+        "kategori": "HARAM"
+      },
+      {
+        "soz": "Haram yiyenlerin yedi azası istese de, istemese de günah işler. Helâl yiyenlerin bütün bedeni ibadet eder.",
+        "sozSahibi": "Abdullah Tusteri",
+        "kategori": "HARAM"
+      },
+      {
+        "soz": "Hasetçinin, senin sevindiğin zaman üzülmesi, intikam olarak sana yeter.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "HASET (KISKANMA)"
+      },
+      {
+        "soz": "Kıskanç, vücutça sıhhatli görünse de, hasedin tesiriyle muzdarip ve hastadır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "HASET (KISKANMA)"
+      },
+      {
+        "soz": "Ölümü çok hatırlayanda ne neş’e olur ne de haset.",
+        "sozSahibi": "Ebü’d-Derda",
+        "kategori": "HASET (KISKANMA)"
+      },
+      {
+        "soz": "Dört şeyden uzak durmalıdır: Haset, kibir, öfke ve kıskançlık.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "HASET (KISKANMA)"
+      },
+      {
+        "soz": "En büyük ayıp, başkalarında gördüğümüzde beğenmediğimiz bir ayıbın kendimizde bulunmasıdır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "HATA (AYIP, KUSUR)"
+      },
+      {
+        "soz": "Bir hata işlediğiniz zaman Allah’tan bağışlanma dileyiniz. Çünkü hatalar, insanlar yaratılmadan önce yaratılmıştır. Bütün tehlike hatada ısrardadır.",
+        "sozSahibi": "Ebû Abdullah Câfer-i Sâdık",
+        "kategori": "HATA (AYIP, KUSUR)"
+      },
+      {
+        "soz": "Ey Ademoğlu! Sen imanın hakikatını ancak, sende bulunan bir ayıptan dolayı halkı ayıplamayı terkettikten sonra elde edebilirsin.",
+        "sozSahibi": "Hasan Basri",
+        "kategori": "HATA (AYIP, KUSUR)"
+      },
+      {
+        "soz": "Sofiliğin şartı insanların kusurlarını görmemektir.",
+        "sozSahibi": "Ahmed er-Rufai",
+        "kategori": "HATA (AYIP, KUSUR)"
+      },
+      {
+        "soz": "Daima başkalarının kusurlarını gören, bir gün rüsvaylık içinde ağzını açamaz olur.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "HATA (AYIP, KUSUR)"
+      },
+      {
+        "soz": "Herkesi kusurları ilk anan bir kimsenin senden de teşekkürle söz edeceğini sanma.",
+        "sozSahibi": "Sâdî",
+        "kategori": "HATA (AYIP, KUSUR)"
+      },{
+        "soz": "Utanması olmayanın kalbi ölür.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "HAYÂ (UTANMA)"
+      },
+      {
+        "soz": "Kulun nefsini tanımamasının alameti haya ve Allah korkusu azlığıdır.",
+        "sozSahibi": "Ahmed bin Âsım el-Antâki",
+        "kategori": "HAYÂ (UTANMA)"
+      },
+      {
+        "soz": "Allah Teâlâ’ya itaat etmek bir hazineye benzer. Bu hazinenin anahtarı dua, bu anahtarın dişleri de helâl lokmadır.",
+        "sozSahibi": "Yahya bin Muaz",
+        "kategori": "HELÂL"
+      },
+      {
+        "soz": "İmanın hakikatine kavuşmak için dört şey lazımdır: Bütün farzları edeble yapmak; helâl yemek; görünen ve görünmeyen haramlardan sakınmak ve bunlara ölünceye kadar devam etmektir.",
+        "sozSahibi": "Abdullah Tüsteri",
+        "kategori": "HELÂL"
+      },
+      {
+        "soz": "Elif okuduk ötürü, pazar eyledik götürü; Yaradılmışı hoşgördük, yaradandan ötürü.",
+        "sozSahibi": "Yunus Emre",
+        "kategori": "HOŞGÖRÜ (MÜSAMAHA)"
+      },
+      {
+        "soz": "Gerçek anlaşılıncaya kadar Müslüman kardeşinin yaptıklarını iyiye yor.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "HÜSN-İ ZAN (İYİ ZAN, İYİYE YORMA)"
+      },
+      {
+        "soz": "Bir din kardeşine ait sevmediğin bir iş duyarsan birden yetmişe kadar özür kapısı araştır. Bulamazsan, belki benim anlayamadığım bir özrü vardır de ve kapa.",
+        "sozSahibi": "Ebû Abdullah Cafir-i Sâdık",
+        "kategori": "HÜSN-İ ZAN (İYİ ZAN, İYİYE YORMA)"
+      },
+      {
+        "soz": "Bir mümin hakkında iyi düşünceler besleyip de yanılmak, kötü zanda bulunup da isabet etmekten daha hayırlıdır.",
+        "sozSahibi": "İmam Gazali",
+        "kategori": "HÜSN-İ ZAN (İYİ ZAN, İYİYE YORMA)"
+      },
+      {
+        "soz": "İlimsiz yapılan ibadette, anlayış vermeyen ilimde, tefekküre götürmeyen Kur’an okumada hayır yoktur.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "İBADET"
+      },
+      {
+        "soz": "Arzularınla arana demirden bir duvar koymadıkça, ibadetin ve kulluğun tadına varamazsın.",
+        "sozSahibi": "Bişr-i Hafi",
+        "kategori": "İBADET"
+      },
+      {
+        "soz": "Vakit çok kıymetlidir. Ancak kıymetli şeyler için kullanılması gerekir. İşlerin en kıymetlisi ise Allah’a ibadet etmektir.",
+        "sozSahibi": "İmam Rabbani",
+        "kategori": "İBADET"
+      },
+      {
+        "soz": "İnsanlar genellikle iki sebebten helâk olurlar: 1- Farzların vaktini geçirerek nafile ibadetlere dalmak, 2- İbadetleri kalb ile birlikte değil de sadece organlarla yapmak.",
+        "sozSahibi": "Muhammed Ebû Verd",
+        "kategori": "İBADET"
+      },
+      {
+        "soz": "İbadetlerin en makbulü, gizliliğine en çok riayet edilendir.",
+        "sozSahibi": "Tavus bin Keysan",
+        "kategori": "İBADET"
+      },
+      {
+        "soz": "İbadet eden kimse, yaptığı ibadete bakar da kendini bir din kardeşinden üstün görmeye kalkarsa yaptığı ibadet hiç olur.",
+        "sozSahibi": "Süyfan-ı Sevri",
+        "kategori": "İBADET"
+      },
+      {
+        "soz": "İhlâs, güzel bir iş yaptığında onun konuşulmasından hoşlanmaman, o güzel işinden dolayı övgü beklememendir.",
+        "sozSahibi": "Ahmed ibn-i Asım el-Antaki",
+        "kategori": "İHLÂS"
+      },
+      {
+        "soz": "İhlâs, amel eden kişinin amelinin kabul edilmesine vesile olan şeydir.",
+        "sozSahibi": "Ebû Hayır Nessâc",
+        "kategori": "İHLÂS"
+      },
+      {
+        "soz": "Bir şeyin zıddı bilinmez ise kendi de bilinmez. İhlâs da, zıddı olan riyayı tanıyıp onu terketmekle bilinebilir.",
+        "sozSahibi": "Ebû Osman Mağribi",
+        "kategori": "İHLÂS"
+      },
+      {
+        "soz": "Her kim ihlâsla bir amel işlese de sonradan onunla övünse, o kimse bu kabul olunmuş ameli iyilik divanından siler, riya divanına yazar.",
+        "sozSahibi": "Süfyan-ı Sevri",
+        "kategori": "İHLÂS"
+      },
+      {
+        "soz": "Her kim güzel bir ameli halk görmesin diye terkederse riyadır; halk görsün diye işlerse şirktir; ikisini de terk eder ise ihlâstır.",
+        "sozSahibi": "Malik bin Dinar",
+        "kategori": "İHLÂS"
+      },
+      {
+        "soz": "İman, Yüce Allah’ın gayba ait bildirdiği her şeyi nefsin tasdik etmesidir.",
+        "sozSahibi": "Muhammed ibn-i Hafif",
+        "kategori": "İMAN"
+      },
+      {
+        "soz": "İman çıplaktır, onun elbisesi takva, süsü haya, sermayesi ilimdir.",
+        "sozSahibi": "Ebû Hüreyre",
+        "kategori": "İMAN"
+      },
+      {
+        "soz": "İnsanlar kainatta bulunan şeylere bakıp görmekle değil, bunları yaratan Yüce Zatı düşünmekle huzur duyabilir.",
+        "sozSahibi": "Ebû Huseyin Nuri",
+        "kategori": "İMAN"
+      }, {
+        "soz": "Gerçeği, insanların ölçüleri ile değil; insanları gerçeğin ölçüsü ile tanı.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "İNSAN"
+      },
+      {
+        "soz": "İnsan ile insan arasında fark vardır. Bir de mirden hem nal, hem de kılıç yapılır.",
+        "sozSahibi": "Nizami",
+        "kategori": "İNSAN"
+      },
+      {
+        "soz": "Dünya bir ağaca benzer, biz insanlar bu ağaçta yarı ham, yarı olgun meyveler gibiyiz.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "İNSAN"
+      },
+      {
+        "soz": "Birkaç günlük bir nafakayı bir günde harcayan ev halkına ben buğzederim.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "İSRAF (SAVURGANLIK)"
+      },
+      {
+        "soz": "Müsrif adam üç yanlışı tekrarlar: Kendine lazım olmayanı alır, kendine ait olmayanı giyer, kendine layık olmayanı yer.",
+        "sozSahibi": "Vehb ibn-i Münebbih",
+        "kategori": "İSRAF (SAVURGANLIK)"
+      },
+      {
+        "soz": "Danışmayı terk eden doğru yolu bulamaz.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "İSTİŞÂRE (DANIŞMA)"
+      },
+      {
+        "soz": "Bir iş bir kere geri kalırsa hiçbir vakit ilerlemez.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "İŞ, İŞÇİ"
+      },
+      {
+        "soz": "En bedbaht, en muzdarip kimse, yapacak bir işi olmayan kimsedir.",
+        "sozSahibi": "Bediüzzaman",
+        "kategori": "İŞ, İŞÇİ"
+      },
+      {
+        "soz": "Her şeyin bir şerefi vardır, iyiliğin şerefi de çabuk yapılmasındandır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "İYİLİK"
+      },
+      {
+        "soz": "İyilik ediniz, onun karşılığında kötülük göreceğinizi hiç aklınıza getirmeyiniz.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "İYİLİK"
+      },
+      {
+        "soz": "İyilik, sana kötülük edene iyilik etmendir. İyiliğe karşı iyilik etmek, satın aldığın bir şeyin parasını vermeye benzer.",
+        "sozSahibi": "Süfyan-ı Servri",
+        "kategori": "İYİLİK"
+      },
+      {
+        "soz": "Bir kul, iyiliği dolayısıyla yeryüzünde övülürse, gökyüzünde de övülür.",
+        "sozSahibi": "Ka’ab el-Ahbar",
+        "kategori": "İYİLİK"
+      },
+      {
+        "soz": "Ne kadar yoksul ve aç olursa olsun kanaat sahibi zengindir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "KANAAT"
+      },
+      {
+        "soz": "Rızkın ne ise ona kavuşursun, hiç üzülme. Kul kanaat sahibi olduğu zaman hürdür. Hırsa kapıldığında köle olur. Kalbinden tamahı çıkar ki ayalarındaki zincir çözülsün.",
+        "sozSahibi": "Ahmed er-Rufâî",
+        "kategori": "KANAAT"
+      },
+      {
+        "soz": "Hırsını satarak onun parası ile kanaat satın alan kimse, izzet ve şerefle zafere ulaşır.",
+        "sozSahibi": "Ebû Bekir Kettânî",
+        "kategori": "KANAAT"
+      },
+      {
+        "soz": "Kanaat etmekten hiç kimse ölmedi, hırs da hiç kimseyi zengin etmedi.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "KANAAT"
+      },
+      {
+        "soz": "Üç haslet evliya sıfatıdır: Allah’a tevekkül, Allah’tan başkasından bir şey beklememek, kanaat etmek.",
+        "sozSahibi": "Yahya ibn-i Muaz",
+        "kategori": "KANAAT"
+      },
+      {
+        "soz": "Allah beş şeyi beş yere yerleştirmiştir: İzzeti, ibadet ve itaate; zilleti, günaha; heybeti, geceleyin kalkmaya; hikmeti, boş karına; zenginliği de kanaate.",
+        "sozSahibi": "Kuşeyri",
+        "kategori": "KANAAT"
+      },
+      {
+        "soz": "İçinde bulunduğu meşguliyet seni arayıp bulmasına engel olan, fakat kalbinde sevgini taşıyan kimse senin din kardeşin sayılır.",
+        "sozSahibi": "Mâlik bin Dînar",
+        "kategori": "KARDEŞ-KARDEŞLİK"
+      },
+      {
+        "soz": "Üç durumda din kardeşinizi yalnız bırakmayınız: Hastalandıklarında ziyaret ediniz, meşguliyetlerinde yardım ediniz, unuttuklarında hatırlatınız.",
+        "sozSahibi": "Ata ibn-i Meysere el-Horasânî",
+        "kategori": "KARDEŞ-KARDEŞLİK"
+      },
+      {
+        "soz": "Kendisine minnet etmeğe mecbur olduğun kimse senin kardeşin değildir.",
+        "sozSahibi": "İmam Şafi’î",
+        "kategori": "KARDEŞ-KARDEŞLİK"
+      },
+      {
+        "soz": "Komşusu, arkadaşı ve akrabası tarafından iyi denen kimse gerçekten iyidir.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "KOMŞU-KOMŞULUK"
+      },
+      {
+        "soz": "İyi komşuluk, sadece komşuya eziyet etmemek değil, onun verdiği eziyete de katlanmaktır.",
+        "sozSahibi": "Hasan Basri",
+        "kategori": "KOMŞU-KOMŞULUK"
+      },
+      {
+        "soz": "Kötülüklerini herkesin görmesinden çekinmeyen kimse insanların en şerlisidir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "KÖTÜ-KÖTÜLÜK"
+      },
+      {
+        "soz": "Bir müslüman kardeşine yapacağın en büyük kötülük, kızdığın zaman hayırlı işleri gizlemen, şerli yönünü anlatmamandır.",
+        "sozSahibi": "Muhammed ibn-i Sirin",
+        "kategori": "KÖTÜ-KÖTÜLÜK"
+      },
+      {
+        "soz": "Manevi lezzeti üç şeyde arayın: Namazda, zikirde ve Kur’an okumakta. Bulunsanız ne âlâ! Bulamazsanız kalbiniz hasta demektir.",
+        "sozSahibi": "Hasan Basri",
+        "kategori": "KUR’ÂN-I KERİM"
+      },
+      {
+        "soz": "Mal (servet) hasislerde, silah korkaklarda, otorite (yetki) zayıflarda olursa işler bozulur.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "MAL-MÜLK (PARA, SERVET)"
+      },
+      {
+        "soz": "İnsanları iki şey mahveder: Mal toplama hırsı ve çok konuşmak.",
+        "sozSahibi": "İbrahim en-Nehai",
+        "kategori": "MAL-MÜLK (PARA, SERVET)"
+      },
+      {
+        "soz": "Her kim ki, kendisinde Allah’ın yarattıklarına karşı merhamet yoktur, o kimse Hak ehlinin yükseldiği makama yükselemez.",
+        "sozSahibi": "İbrahim Düssuki",
+        "kategori": "MERHAMET"
+      },
+      {
+        "soz": "Hiçbir din yolcusu, bütün insanları sevinceye, onlara şefkat besleyinceye, görünen ayıplarını örtünceye kadar olgunluğa ulaşamaz.",
+        "sozSahibi": "İbrahim Düssuki",
+        "kategori": "MERHAMET"
+      },
+      {
+        "soz": "Eğer biz İslâm’ın bir üstün değerler sistemi olduğunu Müslüman olmayanlara anlatmak istiyorsak, onlara, her şeyden önce bizim İslâm’ı temsil etmediğimizi söylemek zorundayız.",
+        "sozSahibi": "Muhammed İkbal",
+        "kategori": "MÜSLÜMAN-MÜSLÜMANLIK"
+      },
+      {
+        "soz": "Nasihat dünyanın en pahalı mücevheri kadar değerli olduğu halde ekseriya pek ucuza satılır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "NASİHAT (ÖĞÜT)"
+      },
+      {
+        "soz": "Dil ile öğüt verene değil, davranışları ile örnek olana uymalıdır.",
+        "sozSahibi": "Muhammed ibn-i Hafif",
+        "kategori": "NASİHAT (ÖĞÜT)"
+      },
+      {
+        "soz": "Tasavvuf yolunda bulunan kişinin yapacağı ve dikkat edeceği en mühim şey nefsini hesaba çekmektir.",
+        "sozSahibi": "Ebû Osman Mağribi",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "En büyük nimet nefsin arzularından kurtulmaktır. Çünkü nefis kişi ile Allah arasında bulunan perdelerin en büyüğüdür.",
+        "sozSahibi": "Ebû Bekir Temestani",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Bütün Kur’an nefislerin kötülüklerini bildirmek ve açıklamaktan ibarettir.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nefis bir katırdır, amel (ibadet ve taat) da onun yüküdür.",
+        "sozSahibi": "Vehb ibn-i Münebbih",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nefsini zelil kılan kimseyi Yüce Allah aziz kılar ve o kişinin derecesini yükseltir. Nefsini beğenen kişiyi de Allah zelil ve hakir kılar.",
+        "sozSahibi": "Ebû Hasan Buşenci",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nefsi en iyi şu dört şey terbiye eder: Susmak, açlık, yalnızlık ve uykusuzluk.",
+        "sozSahibi": "Feriduddin Attar",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "İnsanların en zayıfı, nefsani arzularından el çekmede aciz kalandır. En güçlüsü de, bu arzuları terketmeye güç yetirendir.",
+        "sozSahibi": "Davud Kassar",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Salih bir kişi için en kötü şey nefsine kolaylık göstermektir.",
+        "sozSahibi": "Muhammed ibni Hafif",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nefsinden gördüğü şeyleri iyi sanan ayıplarını göremez. Ancak nefsinin ayıplarını arayan, ondan gelen şeyleri elekten geçiren kendi kusurlarını bulur ve görür.",
+        "sozSahibi": "Hayır Nisaburi",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Bir kimse nefsini terbiye etmekten acizse, başkasına edeb öğretmek işinde daha acizdir.",
+        "sozSahibi": "Seriyy’üs-Sakati",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nefsimi elimde tutabilseydim parça parça doğrar hayvanların önüne yem olarak atardım.",
+        "sozSahibi": "Süleyman ibn-i Mihran",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nefis, üç köşeli bir dikendir; ne türlü koysan batar.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "İyilikte her düşmanı dost edinebilirsin, oysa nefsin ona iyilik ettikçe düşmanlığını arttırır.",
+        "sozSahibi": "Sâdî",
+        "kategori": "NEFİS ve NEFSİ TERBİYE"
+      },
+      {
+        "soz": "Nice küçük amel (iyilik ve ibadet) vardır ki niyet onu büyük yapar; nice büyük amel vardır ki niyet onu küçük yapar.",
+        "sozSahibi": "Abdullah ibn-i Mübarek",
+        "kategori": "NİYET"
+      },
+      {
+        "soz": "Öfke, düşünceyi, muhakemeyi, hafızayı bulandıran en kötü çamurdur.",
+        "sozSahibi": "Atiye Keskin",
+        "kategori": "ÖFKE"
+      },
+      {
+        "soz": "Bir kimsenin cimrilik adeti ile öfke duygusu körelmedikçe muttakiler sınıfına geçemez.",
+        "sozSahibi": "Abdullah el-Müzeni",
+        "kategori": "ÖFKE"
+      },
+      {
+        "soz": "Öfkenin aşırısı, kişiyi özür dilemek küçüklüğüne iter.",
+        "sozSahibi": "Amr bin As",
+        "kategori": "ÖFKE"
+      },
+      {
+        "soz": "Kabre hazırlıksız giren, denize kayıksız açılmış gibidir.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Ölmek felaket değildir, öldükten sonra başa gelecekleri bilmemek felakettir.",
+        "sozSahibi": "İmam Rabbani",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Üç şey kalbin paslanmış olmasının alametidir: 1. Allah’a ibadetten zevk almamak, 2. Günaha düşmekten korkmamak, 3. Ölümden ibret almayıp dünyaya daha çok bağlanmak.",
+        "sozSahibi": "İbrahim Edhem",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Ey insanlar! Ölünce peşinizden size ağlanmadan önce, siz kendinize, kendi halinize ağlayın.",
+        "sozSahibi": "Abdülkadir Geylâni",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Ölümü hatırlamak kalbi temizler, insanı dünyaya ve dünyadakilere bağlanmak felaketinden kurtarır.",
+        "sozSahibi": "Abdülkadir Geylâni",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Ölüm büyük bir olaydır, büyük bir tehlikedir. İnsanlar bunu bilmiyorlar.",
+        "sozSahibi": "İmam Gazali",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "İki şeyi asla unutma: Allah’ı ve ölümü; İki şeyi de unut: Yaptığın iyiliği, gördüğün kötülüğü.",
+        "sozSahibi": "Lokman Hekim",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Sizi mezarda takip etmeyecek olan her şeyle alakanızı kesiniz.",
+        "sozSahibi": "Mevlânâ Alâuddin",
+        "kategori": "ÖLÜM"
+      },
+      {
+        "soz": "Ömrünü faydasız ve boş şeylerle geçiren, tarlaya tohum etmek vaktini kaçırır, hasat zamanı geldiğinde pişman olur.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "ÖMÜR"
+      },
+      {
+        "soz": "Rızkın Allah Teâlâ’dan olduğuna inanan kimse, zengin olunca sevinmez, fakirleşince üzülmez.",
+        "sozSahibi": "Hâtem-i Esam",
+        "kategori": "RIZIK"
+      },
+      {
+        "soz": "Bir kimse yaptığı hayırların ve iyi işlerin bilinmesinden ve konuşulmasından hoşlanıyorsa Allah’a şirk koşmuş olur.",
+        "sozSahibi": "Ahmed ibni Ebûl-Havârî",
+        "kategori": "RİYA (GÖSTERİŞ) – RİYÂKAR"
+      },
+      {
+        "soz": "Riyakâr, memnun ettiğin zaman, seni sende bulunmayan vasıflarla anan; darılttığın zaman yine seni sende bulunmayan kötülüklerle anıp anlatandır.",
+        "sozSahibi": "İmam Şafii",
+        "kategori": "RİYA (GÖSTERİŞ) – RİYÂKAR"
+      },
+      {
+        "soz": "Doğruluk, yaptığını Allah için yapmaktır; halk için yapmak ise riyadır.",
+        "sozSahibi": "Ebû’-l-Hasen Harakânî",
+        "kategori": "RİYA (GÖSTERİŞ) – RİYÂKAR"
+      },
+      {
+        "soz": "Sabır, belayı hafifletir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "SABIR"
+      },
+      {
+        "soz": "Hiç kimse, kendisine sabır verilen kimse kadar Allah’ın lütfuna uğramamıştır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "SABIR"
+      },
+      {
+        "soz": "Sabır ve sebat insanların iki büyük yardımcısıdır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "SABIR"
+      },
+      {
+        "soz": "Sabrın insandaki mevkii, başın vücuttaki mevkii gibidir.",
+        "sozSahibi": "Hz. Enes",
+        "kategori": "SABIR"
+      },
+      {
+        "soz": "Sabır, yüzünü ekşitmeden acıyı yudumlamaktır.",
+        "sozSahibi": "Kuşeyri",
+        "kategori": "SABIR"
+      },
+      {
+        "soz": "Belaya feryad eden, Allah’a kafa tutmuş olur. Feryad etmek belayı geri çevirmez, ama sabretmenin ecir ve sevabını yok eder.",
+        "sozSahibi": "Şakik Belhi",
+        "kategori": "SABIR"
+      },
+      {
+        "soz": "Sevgi ile, bulanık, tortulu sular arı duru bir hale gelir.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "SEVGİ"
+      },
+      {
+        "soz": "Sevgiden ölüler dirilir, sevgiden padişahlar kul olur. Sevgiden bakırlar altın kesilir.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "SEVGİ"
+      },
+      {
+        "soz": "İyi amellerim arasında en değerli bulduğum, salih bir zata olan sevgimdir.",
+        "sozSahibi": "Abdullah el-Müzeni",
+        "kategori": "SEVGİ"
+      },
+      {
+        "soz": "Hakiki sevgi, iyilik gördüğünde artmayan, kötülük gördüğünde eksilmeyendir.",
+        "sozSahibi": "Yahya bin Muaz",
+        "kategori": "SEVGİ"
+      },
+      {
+        "soz": "Sırrını saklayanın iradesi elindedir.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "SIR"
+      },
+      {
+        "soz": "Sende bulunduğu zaman gizli kalmasını istediğin şeyi, başkalarında görünce ifşa etme.",
+        "sozSahibi": "Hamdun Kassar",
+        "kategori": "SIR"
+      },
+      {
+        "soz": "Her insan sırdaş olamaz. Her testi su tutamaz.",
+        "sozSahibi": "Nâsır-ı Husrev",
+        "kategori": "SIR"
+      },
+      {
+        "soz": "Ne söylediğine ve ne zaman söylediğine dikkat et.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Söz, ilaç gibidir; azı yaşatır, çoğu öldürür.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Bir söz kulağa gelip orada kalıyor, kalbe ulaşmıyorsa, o söz dudaktan söylenmiştir. Bir söz kulağı aşıp kalbe ulaşıyorsa o söz gönülden söylenmiştir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Akıl tamamlandığında söz noksanlaşır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Önce düşün, sonra söyle, çünkü önce temel sonra duvar gelir.",
+        "sozSahibi": "Sâdî",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Hoşa gitmeyen söz söyleme, çünkü bu sözün karşılığı da hoşa gitmez. Dağda güzel ses çıkar ki dağ da onu güzel aksettirsin.",
+        "sozSahibi": "Nâsır-ı Husrev",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Yerinde söz söylemesini bilen, özür dilemek zorunda kalmaz.",
+        "sozSahibi": "Fatih Sultan Mehmed",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Güzel sözler, petekten damla damla sızan bala benzer. İnsanın ruhuna tat verir.",
+        "sozSahibi": "Hz. Süleyman",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Sözün revaç bulduğu, buna karşılık işin hiç olduğu bir devreye yetişirsen, şerli insanlar arasında kaldığını ve şerli bir zamanda yaşadığını bilesin.",
+        "sozSahibi": "Ebû Hâzım",
+        "kategori": "SÖZ"
+      },
+      {
+        "soz": "Cenneti arzulayan bir kimse, mutlaka dünyada şehvetlerinden fedakarlık etmelidir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ŞEHVET"
+      },
+      {
+        "soz": "Şehvet şeytanın yularıdır. Bu yuları şeytana kaptıran ona kul olur.",
+        "sozSahibi": "Ebû Bekir Kettâni",
+        "kategori": "ŞEHVET"
+      },
+      {
+        "soz": "Organlarını şehvetlerle razı eden bir kimse, kalbine pişmanlık ağacını diktiğini bilmelidir.",
+        "sozSahibi": "Ebû Yahya el-Verrak",
+        "kategori": "ŞEHVET"
+      },
+      {
+        "soz": "İnsanların en zayıfı, şehvete esir ve nefsine oyuncak olandır.",
+        "sozSahibi": "İbrahim bin Davud Rıkkî",
+        "kategori": "ŞEHVET"
+      },
+      {
+        "soz": "Bir adamın şöhretine, görünüşüne bakmayın. Bir kimsenin namaz ve niyazına aldanmayın. Ancak aklına ve doğruluğuna bakınız.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "ŞEKİL ÖNEMLİ DEĞİLDİR"
+      },
+      {
+        "soz": "Kıyamette şeriatten sorulur. Ebedi hayata giriş ve azaptan kurtuluş, şeriatın yerine getirilmesine bağlıdır.",
+        "sozSahibi": "İmam Rabbani",
+        "kategori": "ŞERİAT"
+      },
+      {
+        "soz": "Şeriat üç bölümdür: İlim, amel, ihlâs. Bunlardan herbiri yerine getirilmedikçe şeriat gerçekleşemez.",
+        "sozSahibi": "İmam Rabbani",
+        "kategori": "ŞERİAT"
+      },
+      {
+        "soz": "Şeriat muma benzer, yol gösterir. Fakat mumu ele almakla yol aşılmış olmaz. Yola koyulmak gerekir. Yola koyuldun mu bu gidişin adı tarikattır. Maksadına ulaştın mı o da hakikat.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "ŞERİAT"
+      },
+      {
+        "soz": "Pergel gibi bir ayağımızla şeriat üzerinde sabitken diğeriyle yetmiş iki milleti dolaşırız.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "ŞERİAT"
+      },
+      {
+        "soz": "Zillete düş, fakat şöhret isteme. Başkaları seni söylesinler diye yükselmeye çalışma.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ŞÖHRET"
+      },
+      {
+        "soz": "Bir kişi tanımıyorum ki, tanınmasını sevsin de bu yüzden dini gidip rezil olmasın.",
+        "sozSahibi": "Bişr-i Hafi",
+        "kategori": "ŞÖHRET"
+      },
+      {
+        "soz": "İster din, ister dünya işlerinde, bir kimsenin parmakla gösterilmesi şöhret afeti olarak kafidir.",
+        "sozSahibi": "İbrahim en-Nehai",
+        "kategori": "ŞÖHRET"
+      },
+      {
+        "soz": "İnsanoğlu üç perdeyi gönlünden gidermeyince ona Allah yolu açılmaz: Dünyayı mülk olarak verseler sevenmemek, dünya kendisinin olsa da elinden alsalar yerinmemek; şöhretten ve övülmekten hoşnut olmamak.",
+        "sozSahibi": "İbrahim Edhem",
+        "kategori": "ŞÖHRET"
+      },
+      {
+        "soz": "Şükür, nimetlerin süsüdür.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ŞÜKÜR"
+      },
+      {
+        "soz": "Allah’ın verdiği nimeti, O’nun razı olduğu yerde harcamakla şükür, razı olmadığı yerde harcamak nankörlüktür.",
+        "sozSahibi": "İmam Gazali",
+        "kategori": "ŞÜKÜR"
+      },
+      {
+        "soz": "Allah’ın ihsan ettiği nimetlerle O’na isyan etmemek, o nimetleri haram olan yerde asla kullanmamak şükürdür.",
+        "sozSahibi": "Cüneyd-i Bağdâdî",
+        "kategori": "ŞÜKÜR"
+      },
+      {
+        "soz": "Şükür, nimeti değil, nimeti vereni görmektir.",
+        "sozSahibi": "İmam Şibli",
+        "kategori": "ŞÜKÜR"
+      },
+      {
+        "soz": "Şarap, tamahkarlık kadar aklı baştan alamaz.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "TAMAH (HIRS)"
+      },
+      {
+        "soz": "Tamahta zillet (aşağılık duruma düşmek) vardır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TAMAH (HIRS)"
+      },
+      {
+        "soz": "İşten evvel tedbir, pişmanlığa yer bırakmaz.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TEDBİR"
+      },
+      {
+        "soz": "İtaat ve ibadetle iş bitmez. Söz söylemekte, etrafa bakmakta, yemek yemekte fevkalade ihtiyatlı olmak lazımdır.",
+        "sozSahibi": "Mevlânâ Alâuddin",
+        "kategori": "TEDBİR"
+      },
+      {
+        "soz": "İnsanı vaktinten önce yıpratan bir şey varsa o da tembelliktir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TEMBELLİK"
+      },
+      {
+        "soz": "Dört şey bedbahtlık işaretidir: Câhillik, tembellik, kimsesizlik, nâkeslik (kimseye iyiliği dokunmamak).",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "TEMBELLİK"
+      },
+      {
+        "soz": "Oburlukla sağlık bir arada bulunmaz.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TEMİZLİK-SAĞLIK-HASTALIK"
+      },
+      {
+        "soz": "Elden gitmeden iki şeyin değerini anlamak zordur. Bunlar, sağlık ve gençliktir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TEMİZLİK-SAĞLIK-HASTALIK"
+      },
+      {
+        "soz": "Dört şeyi küçümsemeyin: Düşmanı, ateşi, hastalığı, az bile olsa ilmi.",
+        "sozSahibi": "Feridüddin Attar",
+        "kategori": "TEMİZLİK-SAĞLIK-HASTALIK"
+      },
+      {
+        "soz": "Hastaya durumu sorulduğunda, önce halini hayırla anıp sonra derdini anlatırsa halinden şikayet etmiş sayılmaz.",
+        "sozSahibi": "İbrahim en-Nehaî",
+        "kategori": "TEMİZLİK-SAĞLIK-HASTALIK"
+      },
+      {
+        "soz": "Cümle hastalıkların aslı çok yemektir.",
+        "sozSahibi": "Hamdun Kassar",
+        "kategori": "TEMİZLİK-SAĞLIK-HASTALIK"
+      },
+      {
+        "soz": "Halkı hakka davet eden, canavar terbiyecisi gibi olmalıdır, canavar terbiyecisi nasıl hayanın huyunu ve yeteneğini bilip ona göre davranırsa hak davetçisi de aynı şekilde davranmalıdır.",
+        "sozSahibi": "Ali Râmitenî",
+        "kategori": "TERBİYE"
+      },
+      {
+        "soz": "Tevekkül, olan şey ile yetinmek, olmayan şeye razı olmaktır.",
+        "sozSahibi": "",
+        "kategori": "TEVEKKÜL"
+      },
+      {
+        "soz": "Hakiki mânâda tevekkül, Allah’tan başkasından korkmamak, O’ndan başkasına güvenmemektir.",
+        "sozSahibi": "Fudayl bin İyaz",
+        "kategori": "TEVEKKÜL"
+      },
+      {
+        "soz": "Cenâb-ı Hakkın kapısından kovduğu kimse her kapıya koşar; fakat O, bir kimseyi kendi kapısına çağırırsa onu kimsenin kapısına bırakmaz.",
+        "sozSahibi": "Şeyh Sâdî",
+        "kategori": "TEVEKKÜL"
+      },
+      {
+        "soz": "Günah işlemekten kaçınmak, tövbe ile uğraşmaktan daha kolaydır.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "TÖVBE"
+      },
+      {
+        "soz": "Tövbe edenlerle beraber oturun, çünkü onların kalbleri yumuşak olur.",
+        "sozSahibi": "Hz. Ömer",
+        "kategori": "TÖVBE"
+      },
+      {
+        "soz": "Kim ki başından geçen bir günahı hatırlar ve bu nedenle kalbi acı duyarsa, Allah katındaki kitapta o günah ondan silinmiş olur.",
+        "sozSahibi": "Abdullah bin Ömer",
+        "kategori": "TÖVBE"
+      },
+      {
+        "soz": "Bina için toprak, yaşamak için gıda neyse, melekut aleminde yükselmek için de tövbe odur.",
+        "sozSahibi": "Şahabeddin Sühreverdi",
+        "kategori": "TÖVBE"
+      },
+      {
+        "soz": "Tutumluluk, az şeyi çoğaltır; israf, çok şeyi azaltır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "İyi kullanılan az mal, kötü kullanılan çok maldan daha ziyade dayanır.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Allah’ın rahmetinden ümitsiz olmak, günahkar olmaktan daha tehlikelidir.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Mümin kulun korku ve ümidi aynı olmalıdır, tartılacak olsa eşit gelmelidir.",
+        "sozSahibi": "Tavus bin Keysan",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Mümin günah korkusu ile ümit arasında iki arslan arasındaki tilki gibi olmalıdır.",
+        "sozSahibi": "Yahya bin Muaz",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Üç şey insanı ibadet ve itaate sevkeder: Korku, ümit ve sevgi. Üç şey de insanı günaha sevkeder: Kibir, hırs ve haset.",
+        "sozSahibi": "Hatem-i Esam",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Mümin, yalnız Allah’tan ümit eder, münafık ise Allah’tan başka herkesten ümit eder.",
+        "sozSahibi": "Hatem-i Esam",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Dört şey kafirliğe sebep olabilir: Gıybet etmek, haset etmek, haram mal devşirmek, Allah’ın rahmetinden ümit kesmek.",
+        "sozSahibi": "Süfyan-ı Sevri",
+        "kategori": "TUTUMLULUK (İKTİSAT)"
+      },
+      {
+        "soz": "Doğruluk ile yalancılık kalbte şiddetli bir kavgaya tutuşurlar. Birisi diğerini kalbten kovuncaya kadar kavgaları devam eder.",
+        "sozSahibi": "Malik bin Dinar",
+        "kategori": "YALAN"
+      },
+      {
+        "soz": "Üç şey Allah’ın azabını gerektirir: 1- Oyun ve eğlence ile boşuna vakit geçirmek, 2- Başkalarıyla alay etmek, 3- İnsanların arkasından konuşmak.",
+        "sozSahibi": "Seriyy’üs-Sakati",
+        "kategori": "ZAMAN"
+      },
+      {
+        "soz": "Zenginlik, gurbeti vatan; yoksulluk vatanı gurbet yapar.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Beş şey, beş nevi insanda şiddetle kötülenmeye layıktır: Âlimlerde fücur, hakimlerde hırs, kadınlarda hayasızlık, ihtiyarlarda zina, zenginlerde cimrilik.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Bir kimse zenginlerle beraber olmayı, fakirlerle beraber olmaya tercih ederse, Allah onu kalb ölümü hastalığına müptela kılar.",
+        "sozSahibi": "Ebû Osman Mağribi",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Devenin iğne deliğinden geçmesi, zenginin cennete girmesinden daha kolaydır.",
+        "sozSahibi": "Vehb ibn-i Münebbih",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Büyüklenen zenginden çekin, zira lağım doldukça daha pis kokar.",
+        "sozSahibi": "Nâsır-ı Husrev",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Zenginlerden kendini sakın. Kalbini ne zaman onlara bağlar, ne zaman onlardan bir şey beklemeye kalkarsan, Allah’tan başka rabler edinmiş olursun.",
+        "sozSahibi": "Şakik Belhi",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Zenginlerin karşısında izzet tavrı takınmak tevâzu sayılır. Fakirlerin yanında gösterilecek zillet hali ise bir şereftir.",
+        "sozSahibi": "Hayır Nisaburi",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Allah’a yemin ederim ki, parayı aziz eden bir kimseyi Allah zelil eder.",
+        "sozSahibi": "Hasan Basri",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Ne kadar zengin olsan yiyebileceğin kadar yersin. Denize testiyi daldırsan alabileceği kadar alır, gerisi kalır.",
+        "sozSahibi": "Mevlânâ",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Zillet bakımından insanların en ileri olanı zenginlere yaltaklanan veya ona tevazu gösteren fakirdir. İzzet bakımından insanların en iyisi ise fakirlere karşı alçakgönüllü olan zengindir.",
+        "sozSahibi": "Muhammed ibn-i İsmail Mağribi",
+        "kategori": "ZENGİN-ZENGİNLİK"
+      },
+      {
+        "soz": "Zikir, bir kazmadır, onunla gönüllerdeki yabancı duygu dikenleri temizlenir.",
+        "sozSahibi": "Ubeydullah Ahrar",
+        "kategori": "ZİKİR"
+      },
+      {
+        "soz": "Kalb uyanıklığının belirtisi, Allah’ı zikrettiğin zaman Allah’ın da seni andığını duymandır.",
+        "sozSahibi": "Ebûl-Hasen Harakâni",
+        "kategori": "ZİKİR"
+      },
+      {
+        "soz": "Zulüm, vefâsızlık ve hile kimde bulunursa zararı yine kendine dokunur.",
+        "sozSahibi": "Hz. Ebû Bekir",
+        "kategori": "ZULÜM-ZÂLİM"
+      },
+      {
+        "soz": "Memleketler, mülk ve saltanat, küfür üzerine durabilir de zulüm üzerinde durumaz.",
+        "sozSahibi": "İmam Maverdi",
+        "kategori": "ZULÜM-ZÂLİM"
+      },
+      {
+        "soz": "Sultanların ve devlet adamlarının bozulması zulüm ile, âlimlerin bozulması tamahkarlık ile, fakirlerin bozulması ise riya ile olur.",
+        "sozSahibi": "Ebû Bekir Varrak",
+        "kategori": "ZULÜM-ZÂLİM"
+      },
+      {
+        "soz": "Haksızlık karşısında eğilmeyiniz. Zira hakkınızla beraber şerefinizi de kaybedersiniz.",
+        "sozSahibi": "Hz. Ali",
+        "kategori": "ZULÜM-ZÂLİM"
+      },
+      {
+        "soz": "Zulmü alkışlayamam, zalimi asla sevemem!; Gelenin keyfi için geçmişe kalkıp sövemem!",
+        "sozSahibi": "Mehmed Akif",
+        "kategori": "ZULÜM-ZÂLİM"
+      },
+      {
+        "soz": "Kul ile Allah arasında dört deniz vardır. Kul bu denizleri geçmeyince Allah’a ulaşamaz. İlk deniz dünyadır, onun gemisi zühddür; ikincisi, halktır, Onun gemisi uzlettir; üçüncüsü nefistir, onun gemisi dileğini reddetmektir; dördüncüsü İblis (şeytan)tir, onun gemisi kendisini düşman bellemektir.",
+        "sozSahibi": "Cüneyd Bağdâdî",
+        "kategori": "ZÜHD-ZÂHİD"
+      },
+      {
+        "soz": "Zahid o kimsedir ki, eline hiç bir şey geçmese bile gönlü hoş olur ve rızık dolayısıyla endişe etmez.",
+        "sozSahibi": "Ebû Bekir Kettânî",
+        "kategori": "ZÜHD-ZÂHİD"
+      },
+      {
+        "soz": "Akıllının dünyayı talebi, cahilin onu terkinden zühde daha yakındır.",
+        "sozSahibi": "Yahya bin Muaz",
+        "kategori": "ZÜHD-ZÂHİD"
+      },
+      {
+        "soz": "Zühd, elleri mal ve mülkten, kalbleri mal ve mülk isteğinden uzak tutmaktır.",
+        "sozSahibi": "Cüneyd-i Bağdâdi",
+        "kategori": "ZÜHD-ZÂHİD"
+      },
+      {
+        "soz": "Zahidlik helale karşı olur; harama gelince o bir ateştir. Ona ancak ölüler el uzatır.",
+        "sozSahibi": "Ömer ibn-i Abdülaziz",
+        "kategori": "ZÜHD-ZÂHİD"
+      }
+]
