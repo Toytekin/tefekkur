@@ -1,8 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:tefekkurr/bloc/sozbloc.dart';
 import 'package:tefekkurr/constant/colors.dart';
 import 'package:tefekkurr/constant/path.dart';
 import 'package:tefekkurr/constant/text.dart';
 import 'package:tefekkurr/page/home/card_home.dart';
+import 'package:tefekkurr/page/home/sozgosterimi.dart';
+import 'package:tefekkurr/page/namaz/home_namz.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -13,6 +17,16 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   @override
+  void initState() {
+    super.initState();
+    sozCek();
+  }
+
+  sozCek() {
+    context.read<SozlerCubit>().rasgeleBirSozCek();
+  }
+
+  @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Scaffold(
@@ -21,27 +35,16 @@ class _HomeScreenState extends State<HomeScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Expanded(
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Container(
-                  decoration: decorm(),
-                  width: size.width,
-                  child: Center(
-                    child: Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: ListView(
-                          children: const [
-                            Text(
-                              SbtTexts.denemeYazi,
-                              style: TextStyle(),
-                            ),
-                          ],
-                        )),
-                  ),
-                ),
+            // SÖZ GÖSTERİMİ
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                decoration: decorm(),
+                width: size.width,
+                child: const SozGosterimi(),
               ),
             ),
+            // davranış ve namaz
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
@@ -49,14 +52,21 @@ class _HomeScreenState extends State<HomeScreen> {
                     imagePath: SbtPaths.aliskanlik,
                     size: size,
                     onpresss: () {},
-                    yazi: 'Davranış'),
+                    yazi: 'Sünnet'),
                 CardHome(
                     size: size,
                     imagePath: SbtPaths.namaz,
-                    onpresss: () {},
+                    onpresss: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => const NamazTakibiScreen()),
+                      );
+                    },
                     yazi: 'Namaz'),
               ],
             ),
+            //ZİKİR VE AYET HADİS
             SizedBox(height: size.width / 20),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
