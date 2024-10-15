@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:lottie/lottie.dart';
 import 'package:tefekkurr/bloc/sozbloc.dart';
 import 'package:tefekkurr/constant/colors.dart';
 import 'package:tefekkurr/constant/path.dart';
@@ -8,6 +9,7 @@ import 'package:tefekkurr/page/home/card_home.dart';
 import 'package:tefekkurr/page/home/sozgosterimi.dart';
 import 'package:tefekkurr/page/namaz/home_namz.dart';
 import 'package:tefekkurr/page/sunnet/home_sunnet.dart';
+import 'package:tefekkurr/page/zikir/zikir_home.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -16,11 +18,24 @@ class HomeScreen extends StatefulWidget {
   State<HomeScreen> createState() => _HomeScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _HomeScreenState extends State<HomeScreen>
+    with SingleTickerProviderStateMixin {
+  late AnimationController _controller;
+
   @override
   void initState() {
     super.initState();
     sozCek();
+    _controller = AnimationController(
+      duration: const Duration(seconds: 8), // Animasyonun toplam süresi
+      vsync: this,
+    )..repeat(); // Animasyonu sürekli tekrarlamak için
+  }
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
   }
 
   sozCek() {
@@ -31,7 +46,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Scaffold(
-      appBar: appbarhome(),
+      appBar: appbarhome(size),
       body: Center(
         child: ListView(
           children: [
@@ -80,7 +95,13 @@ class _HomeScreenState extends State<HomeScreen> {
                 CardHome(
                     size: size,
                     imagePath: SbtPaths.tesbih,
-                    onpresss: () {},
+                    onpresss: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => const ZikirSayfasi()),
+                      );
+                    },
                     yazi: 'Zikir'),
                 CardHome(
                     imagePath: SbtPaths.kuran,
@@ -114,25 +135,17 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  AppBar appbarhome() {
+  AppBar appbarhome(Size size) {
     return AppBar(
       backgroundColor: SbtColors.secondaryColor,
       automaticallyImplyLeading: false,
-      title: const Row(
+      title: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text(
-            SbtTexts.appTitle,
-            style: TextStyle(
-              color: SbtColors.writeColor,
-              fontWeight: FontWeight.bold,
-            ),
-          ),
-          SizedBox(
-            width: 23,
-          ),
-          Icon(
-            Icons.mosque,
-            color: SbtColors.writeColor,
+          LottieBuilder.asset(
+            SbtPaths.lotibismillah,
+            controller: _controller,
+            height: size.width / 3,
           )
         ],
       ),
