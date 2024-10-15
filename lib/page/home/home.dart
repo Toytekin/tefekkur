@@ -7,6 +7,7 @@ import 'package:tefekkurr/constant/text.dart';
 import 'package:tefekkurr/page/home/card_home.dart';
 import 'package:tefekkurr/page/home/sozgosterimi.dart';
 import 'package:tefekkurr/page/namaz/home_namz.dart';
+import 'package:tefekkurr/page/sunnet/home_sunnet.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -43,14 +44,20 @@ class _HomeScreenState extends State<HomeScreen> {
                 child: const SozGosterimi(),
               ),
             ),
-            // davranış ve namaz
+            // sünnet ve namaz
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 CardHome(
                     imagePath: SbtPaths.aliskanlik,
                     size: size,
-                    onpresss: () {},
+                    onpresss: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                            builder: (context) => const SunnahHomePage()),
+                      );
+                    },
                     yazi: 'Sünnet'),
                 CardHome(
                     size: size,

@@ -8,13 +8,18 @@ import 'package:tefekkurr/bloc/theme_bloc.dart';
 import 'package:tefekkurr/constant/theme.dart';
 import 'package:tefekkurr/model/coloradapter.dart';
 import 'package:tefekkurr/model/namazmodel.dart';
+import 'package:tefekkurr/model/sunnetmodel.dart';
 import 'package:tefekkurr/page/home/home.dart';
 
 Future<void> main() async {
   await Hive.initFlutter(); // Hive'ı başlat
   Hive.registerAdapter(NamazAdapter()); // Model adapterini kaydedin
+  Hive.registerAdapter(SunnetModelAdapter()); // Model adapterini kaydedin
+
   Hive.registerAdapter(ColorAdapter());
   await Hive.openBox('namaz');
+  await Hive.openBox<SunnetModel>('sunnetDB');
+
 //intl
   await initializeDateFormatting(
       'tr', null); // Türkçe tarih formatlamayı başlat
