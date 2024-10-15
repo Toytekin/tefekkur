@@ -4,6 +4,7 @@ import 'package:tefekkurr/constant/colors.dart';
 import 'package:tefekkurr/model/sunnetmodel.dart';
 import 'package:tefekkurr/page/home/home.dart';
 
+//Deneme
 class SunnahHomePage extends StatefulWidget {
   const SunnahHomePage({super.key});
 
