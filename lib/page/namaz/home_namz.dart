@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hive_flutter/hive_flutter.dart';
 import 'package:intl/intl.dart';
 import 'package:tefekkurr/constant/colors.dart';
 import 'package:tefekkurr/model/namazmodel.dart';
@@ -25,7 +24,7 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
     Colors.green,
     Colors.orange,
     Colors.red,
-    Colors.pink,
+    const Color.fromARGB(255, 248, 152, 176), // Pastel pembe
   ];
 
   _NamazTakibiScreenState()
@@ -42,7 +41,7 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
     // Seçili ay ve yıl için verileri yükle
     for (int day = 1; day <= 31; day++) {
       DateTime date = DateTime(selectedYear, selectedMonth, day);
-      String formattedDate = DateFormat('dd.MM.yyyy').format(date);
+      String formattedDate = DateFormat('dd.MM.yyyy', 'tr').format(date);
       Namaz? namaz = namazServis.al(formattedDate); // Veriyi al
 
       if (namaz != null) {
@@ -68,9 +67,9 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
     // Geçerli ayın gün sayısını al
     int daysInMonth = DateTime(selectedYear, selectedMonth + 1, 0).day;
 
-    return SafeArea(
-      child: Scaffold(
-        body: Column(
+    return Scaffold(
+      body: SafeArea(
+        child: Column(
           children: [
             Row(
               children: [
@@ -93,9 +92,12 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
                         },
                       ),
                       Text(
-                        DateFormat('MMMM yyyy')
+                        DateFormat('MMMM yyyy', 'tr')
                             .format(DateTime(selectedYear, selectedMonth)),
-                        style: const TextStyle(fontSize: 20),
+                        style: const TextStyle(
+                            fontSize: 20,
+                            color: SbtColors.writeColor,
+                            fontWeight: FontWeight.bold),
                       ),
                       IconButton(
                         icon: const Icon(Icons.arrow_forward),
@@ -142,11 +144,11 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
             const Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                Text('Tarih'),
-                Text('Sabah'),
-                Text('Öğle'),
-                Text('Akşam'),
-                Text('Yatsı'),
+                Text('Tarih', style: TextStyle(color: SbtColors.writeColor)),
+                Text('Sabah', style: TextStyle(color: SbtColors.writeColor)),
+                Text('Öğle', style: TextStyle(color: SbtColors.writeColor)),
+                Text('Akşam', style: TextStyle(color: SbtColors.writeColor)),
+                Text('Yatsı', style: TextStyle(color: SbtColors.writeColor)),
               ],
             ),
             Expanded(
@@ -156,17 +158,40 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
                   // Günleri listele
                   int day = index + 1; // Günleri 1'den başlat
                   DateTime date = DateTime(selectedYear, selectedMonth, day);
-                  String formattedDate =
-                      DateFormat('dd.MM.yyyy').format(date); // Tarihi formatla
+                  String formattedDate = DateFormat('dd.MM.yyyy', 'tr')
+                      .format(date); // Tarihi formatla
 
                   return Row(
                     children: [
-                      Card(
-                        child: Padding(
-                          padding: const EdgeInsets.all(8.0),
-                          child: Text(
-                            formattedDate,
-                            style: const TextStyle(fontSize: 12),
+                      Padding(
+                        padding: const EdgeInsets.all(2.0),
+                        child: Container(
+                          decoration: BoxDecoration(
+                            color: Colors.white, // Kartın arkaplan rengi
+                            borderRadius: BorderRadius.circular(
+                                10), // Kenarların yuvarlaklığı
+                            border: Border.all(
+                              color: SbtColors.writeColor, // Kenarlık rengi
+                              width: 1, // Kenarlık kalınlığı
+                            ),
+                            boxShadow: [
+                              BoxShadow(
+                                  color: SbtColors.writeColor
+                                      .withOpacity(0.2), // Gölgenin rengi
+                                  spreadRadius: 2, // Gölgenin yayılma derecesi
+                                  blurRadius: 0, // Gölgenin bulanıklığı
+                                  offset: const Offset(2, 4)),
+                            ],
+                          ),
+                          child: Padding(
+                            padding: const EdgeInsets.all(8.0),
+                            child: Text(
+                              formattedDate,
+                              style: const TextStyle(
+                                fontSize: 12,
+                                color: SbtColors.writeColor,
+                              ),
+                            ),
                           ),
                         ),
                       ),
@@ -329,7 +354,10 @@ class _NamazTakibiScreenState extends State<NamazTakibiScreen> {
           ),
         ),
         const SizedBox(width: 5),
-        Text(text),
+        Text(
+          text,
+          style: const TextStyle(color: SbtColors.writeColor),
+        ),
       ],
     );
   }

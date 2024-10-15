@@ -17,7 +17,7 @@ class SozGosterimi extends StatelessWidget {
         } else {
           double fontSize = state.soz.length < 50
               ? 28
-              : 18; // Kısa/uzun sözlere göre font ayarı
+              : 14; // Kısa/uzun sözlere göre font ayarı
           return Column(
             children: [
               const SizedBox(height: 15),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:tefekkurr/bloc/image_bloc.dart';
 import 'package:tefekkurr/bloc/sozbloc.dart';
 import 'package:tefekkurr/bloc/theme_bloc.dart';
@@ -14,7 +15,9 @@ Future<void> main() async {
   Hive.registerAdapter(NamazAdapter()); // Model adapterini kaydedin
   Hive.registerAdapter(ColorAdapter());
   await Hive.openBox('namaz');
-
+//intl
+  await initializeDateFormatting(
+      'tr', null); // Türkçe tarih formatlamayı başlat
   runApp(const MyApp());
 }
 
@@ -34,6 +37,8 @@ class MyApp extends StatelessWidget {
               debugShowCheckedModeBanner: false,
               theme: state ? TrTheme.darkTheme : TrTheme.lightTheme,
               title: 'Tr',
+              //intl takvim dili
+
               home: const HomeScreen(),
             );
           },
